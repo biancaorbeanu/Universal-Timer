@@ -28,3 +28,9 @@ The maximum delay period can be adjusted by modifying C2:
 The selected relay can switch up to 2A at 230V. A stable 12V power supply is required for proper circuit operation.
 
 ## Files
+All the files can be found in **TIE Project.rar**
+- **Catalog Sheets** – Datasheets for the components used
+- **Documentation** – A detailed overview of the project and its operation.
+- **Fabrication Files** – The provided circuit diagram and specific parameters.
+- **Footprint** – Custom footprints
+- **PCB Project** – OrCAD project files
